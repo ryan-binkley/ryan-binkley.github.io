@@ -15,7 +15,7 @@ a:hover
   padding: 10px;
   margin: 10px;
   border-radius: 10px;
-  background: #222222;
+  background: #1C1E23;
   max-width: 100%;
 }
 
@@ -27,7 +27,7 @@ a:hover
   padding: 10px;
   margin: 10px;
   border-radius: 10px;
-  background: #111111;
+  background: #0F1115;
 }
 
 .project-box img {
@@ -46,24 +46,20 @@ a:hover
 
 html
 {
-  background: #111111;
+  background: #0F1115;
 }
 
 body
 {
   display: grid;
   place-items: center;
+  text-align: center;
   font-family: "Montserrat", sans-serif;
 }
 
 .content
 {
   text-align: center;
-}
-
-h4, h5
-{
-  color: #777;
 }
 
 h1
@@ -74,7 +70,7 @@ h1
 
 h2, h4
 {
-  color: #BBB
+  color: #A0A0A0
 }
 
 h3, h5
